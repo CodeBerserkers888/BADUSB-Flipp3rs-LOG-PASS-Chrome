@@ -1,11 +1,12 @@
 <h1 align="center"><strong>BAD FLIPP3R</strong></h1>
 
-<div style="text-align: center; margin-bottom: 20px;">
-  <div style="display: inline-block;">
-    <img src="https://i.imgur.com/rH3qlFW.png" style="width: 364px; height: 249px;">
-  </div>
-</div>
-
+<html>
+  <body>
+    <div align="center">
+      <img src="https://i.imgur.com/rH3qlFW.png" width="369" height="249">
+    </div>
+  </body>
+</html>
 
 
 <p id="description"><strong>BadFLIPP3R</strong> is an advanced payload designed for use with the Flipper Zero device. This project is intended exclusively for educational purposes and to deepen understanding of advanced USB-based attacks. The primary goal of <strong>BadFLIPP3R</strong> is to provide cybersecurity professionals, researchers, and enthusiasts with a tool to study, practice, and enhance their knowledge of various types of USB-based exploits.</p>
