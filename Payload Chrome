@@ -1,0 +1,64 @@
+# Set the delay between each action
+DELAY 1000
+
+# Open Google Chrome
+GUI r
+STRING chrome.exe
+DELAY 1000
+
+# Navigate to the login page
+GUI t
+STRING https://example.com/login
+DELAY 1000
+
+# Get the username and password from the user
+GUI r
+STRING Enter your username:
+DELAY 1000
+GUI t
+STRING {backspace 10}
+DELAY 1000
+GUI t
+STRING {enter}
+DELAY 1000
+
+GUI r
+STRING Enter your password:
+DELAY 1000
+GUI t
+STRING {backspace 10}
+DELAY 1000
+GUI t
+STRING {enter}
+DELAY 1000
+
+# Open Microsoft Edge
+GUI r
+STRING MicrosoftEdge.exe
+DELAY 1000
+
+# Navigate to the login page
+GUI t
+STRING https://example.com/login
+DELAY 1000
+
+# Get the username and password from the user
+GUI r
+STRING Enter your username:
+DELAY 1000
+GUI t
+STRING {backspace 10}
+DELAY 1000
+GUI t
+STRING {enter}
+DELAY 1000
+
+GUI r
+STRING Enter your password:
+DELAY 1000
+GUI t
+STRING {backspace 10}
+DELAY 1000
+GUI t
+STRING {enter}
+DELAY 1000
