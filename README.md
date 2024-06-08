@@ -7,9 +7,18 @@
     </div>
   </body>
 </html>
+<div align="center">
+
+[![DDXW](https://img.shields.io/badge/RubberDucky-Coding%20-yellow?style=flat-square&logo=rubber&logoColor=orange)](https://github.com/Bulli77)
+
+[![DDXNJ](https://img.shields.io/badge/Ninja-Programmer-HVIT)](https://www.ddx-solutuions.com/)
+
+</div>
 
 
-<p id="description"><strong>BadFLIPP3R</strong> is an advanced payload designed for use with the Flipper Zero device. This project is intended exclusively for educational purposes and to deepen understanding of advanced USB-based attacks. The primary goal of <strong>BadFLIPP3R</strong> is to provide cybersecurity professionals, researchers, and enthusiasts with a tool to study, practice, and enhance their knowledge of various types of USB-based exploits.</p>
+<p id="description"><strong>BadFLIPP3R</strong> is an advanced payload designed for use with the Flipper Zero device. 
+  <p id="description">This project is intended exclusively for educational purposes and to deepen understanding of advanced USB-based attacks. 
+    <p id="description">The primary goal of <strong>BadFLIPP3R</strong> is to provide cybersecurity professionals, researchers, and enthusiasts with a tool to study, practice, and enhance their knowledge of various types of USB-based exploits.</p>
 
 ...................................  
 <h2>🧐 Features</h2>
