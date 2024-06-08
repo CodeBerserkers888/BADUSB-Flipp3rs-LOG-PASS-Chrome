@@ -10,8 +10,8 @@
 <div align="center">
 
 [![DDXW](https://img.shields.io/badge/RubberDucky-Coding%20-yellow?style=flat-square&logo=rubber&logoColor=orange)](https://github.com/Bulli77)
-
 [![DDXNJ](https://img.shields.io/badge/Ninja-Programmer-HVIT)](https://www.ddx-solutuions.com/)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/w/Bulli77/BADUSB-Flipp3rs-LOG-PASS-Chrome?style=plastic)
 
 </div>
 
