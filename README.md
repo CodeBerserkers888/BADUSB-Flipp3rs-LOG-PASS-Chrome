@@ -1,9 +1,10 @@
 <h1 align="center"><strong>BAD FLIPP3R</strong></h1>
 
 <div style="text-align: center; margin-bottom: 20px;">
-  <img src="https://i.imgur.com/rH3qlFW.png" style="width: 364px; height: 249px; display: block; margin: 0 auto;">
+  <div style="display: inline-block;">
+    <img src="https://i.imgur.com/rH3qlFW.png" style="width: 364px; height: 249px;">
+  </div>
 </div>
-
 
 
 
