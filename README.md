@@ -1,4 +1,4 @@
-<h1 align="center"><strong>BAD FLIPP3R</strong></h1>
+<h1 align="center"><strong>BAD FLIPP3R - Chrome LOG&PASS Exfiltrations</strong></h1>
 
 <html>
   <body>
